@@ -17,6 +17,7 @@ const (
 	tickerPath    = "ticker/%v"
 	orderBookPath = "depth/%v"
 	limit         = 5
+	BTCUSD        = "btc_usd"
 )
 
 // Client communicates with the API
